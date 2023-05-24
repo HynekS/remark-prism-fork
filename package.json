@@ -29,7 +29,7 @@
     "parse-numeric-range": "^1.2.0",
     "parse5": "^6.0.1",
     "parse5-htmlparser2-tree-adapter": "^6.0.1",
-    "prismjs": "^1.23.0",
+    "prismjs": "github:HynekS/prism-astro",
     "unist-util-map": "^2.0.1"
   },
   "devDependencies": {
